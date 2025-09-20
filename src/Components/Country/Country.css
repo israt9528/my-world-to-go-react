@@ -1,0 +1,15 @@
+.country {
+    border: 2px solid grey;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.visited-country {
+    background-color: chocolate;
+}
+
+.country-flag {
+    background-color: darkslategray;
+}
